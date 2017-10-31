@@ -1,0 +1,17 @@
+{
+  "name": "d-redux-base",
+  "version": "1.0.0",
+  "description": "Redux reducers/actions/states based on nextjs.",
+  "main": "index.js",
+  "files": [
+    "src/redux-actions.js",
+    "src/redux-reducers.js",
+    "src/redux-states.js"
+  ],
+  "repository": "git@github.com:smalleast/d-redux-base.git",
+  "author": "smalleast <382026180@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-store": "github:smalleast/react-store"
+  }
+}
