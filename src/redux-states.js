@@ -1,4 +1,4 @@
-var NxStore = require('next-store');
+var NxStore = require('react-store');
 module.exports={
   getUpdate:function(inStore){
     return inStore.getState();
